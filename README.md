@@ -8,3 +8,6 @@ Challenges of different levels of difficulty for training and education (some ch
 4. Matrix Diagonal Sum :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task4);
 5. Move Zeroes :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task5);
 6. Roman Numbers :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task6);
+7. Sorting Collection :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task7);
+8. Palindrome String :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task8);
+9. Optimized Bubble Sorting :point_right: [readme](https://github.com/bbogdasha/challenges/tree/main/src/com/bogdan/task9);
